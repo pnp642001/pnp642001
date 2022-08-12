@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
-<h3 align="center">An aspring tech enthusiast. Firm believer of Agility &</h3>
+<h3 align="center">An aspring tech enthusiast. Firm believer of Agility</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnp642001&label=Profile%20views&color=0e75b6&style=flat" alt="pnp642001" /> </p>
 
