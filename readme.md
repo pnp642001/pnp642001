@@ -23,6 +23,8 @@
 
 - ⚡ Fun fact **I think I am notoriously curious about exploring the unseen**
 
+- 🏅 Get to know about my certifications and achievements [https://github.com/pnp642001/Certificates](https://github.com/pnp642001/Certificates)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-patel-784848194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-patel-784848194/" height="30" width="40" /></a>
