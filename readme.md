@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Parth Patel</h1>
 <h3 align="center">An aspring tech enthusiast. Firm believer of Agility</h3>
-
+<p>
+<div><a href="https://scanova.io/?utm_source=scanova-for-education&utm_medium=edu&utm_campaign=referral" title="Scanova">Scanova QR Code Generator</a></div>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnp642001&label=Profile%20views&color=0e75b6&style=flat" alt="pnp642001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pnp642001" alt="pnp642001" /></a> </p>
+
 
 - 🔭 I’m currently working on **Recommendation System**
 
